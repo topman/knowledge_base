@@ -14,7 +14,7 @@
 
 
 
-Contents:
+内容:
 
 .. toctree::
    :maxdepth: 2
@@ -22,8 +22,9 @@ Contents:
    management/toc
    software/toc
    productivity/toc
+   programming/toc
 
-Indices and tables
+索引和表格
 ==================
 
 * :ref:`genindex`
